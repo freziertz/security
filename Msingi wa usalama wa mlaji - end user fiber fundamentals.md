@@ -1,0 +1,1 @@
+This course teaches about end user security risks related to everyday online activities such as using email, social media, storing data on public cloud, and using IoT devices. The course analyzes the security and privacy risks end-users should know to recognize threats like online scams, typosquatting, spoofed websites, and others to keep themselves and their organizations safe.
