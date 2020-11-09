@@ -1,13 +1,13 @@
 # Email Security
 
 Copyright © 2020 BrainyCyber. All Rights Reserved ®
-The Email
-Security Guide
-Written by Gavin Phillips
+
+# The EmailSecurity Guide
+Written by Frezier Joe
 This ebook is the intellectual property of BrainyCyber. It must only be published in its original
 form. Using parts or republishing altered parts of this ebook without permission from
-MakeUseOf.com is prohibited.
-Copyright © 2020 MakeUseOf. All Rights Reserved ®
+BrainyCyber is prohibited.
+Copyright © 2020 BrainyCyber. All Rights Reserved ®
 
 # Table of Contents
 
@@ -55,7 +55,7 @@ Copyright © 2020 MakeUseOf. All Rights Reserved ®
 
 # Chapter 1: Why Do You Need Secure Email?
 
-Welcome to the MakeUseOf Email Security Course. In this course you’ll learn how to lock down
+Welcome to the BrainyCyber Email Security Course. In this course you’ll learn how to lock down
 your inbox and secure one of the single most important digital assets in your life.
 
 # Why Do You Need Secure Email?
