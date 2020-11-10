@@ -2,7 +2,7 @@
 
 Malengo ya kujifunza SSL Certificate
 
-Baada ya kujifunza kipande hiki utakua na uwezo wa
+Baada ya kujifunza sehemu hii utakua na uwezo wa
 
 Kuelewa nini maana ya SSL certificate
 

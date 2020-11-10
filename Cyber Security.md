@@ -1,5 +1,7 @@
 # CyberSecurity
 
+Habari! Karibu kwenye somo letu 101 la usalama wa mtumiaji wa mwisho
+
 Cybersecurity ni kitendo cha kulinda netowork, vifaa na taarifa dhidi ya mtu asiyeruhusiwa au waharifu na kuhakikihsa usili confidentiality, zinabaki kama zinavyotakiwa ziwe (integrity) na zinapatikana wakati wote zinapoitajika.
 
 Kujilinda wewe mwenyewe dhidi ya uvamizi wa kimtandao (cyber attack) unaanza na uelewa na hatari zilizopo zinazo ambatana na shughuli za kihalifu wa kimtandao.
@@ -56,6 +58,8 @@ To minimize the risks of cyberattacks, follow basic cybersecurity best practices
 - **Use strong passwords.** Select passwords that will be difficult for attackers to guess, and use different passwords for different programs and devices. It is best to use long, strong passphrases or passwords that consist of at least 16 characters. (See [Choosing and Protecting Passwords](https://us-cert.cisa.gov/ncas/tips/ST04-002).)
 - **Change default usernames and passwords.** Default usernames and passwords are readily available to malicious actors. Change default passwords, as soon as possible, to a sufficiently strong and unique password.
 - **Implement multi-factor authentication (MFA).** Authentication is a process used to validate a user’s identity. Attackers commonly exploit weak authentication processes. MFA uses at least two identity components to authenticate a user’s identity, minimizing the risk of a cyberattacker gaining access to an account if they know the username and password. (See [Supplementing Passwords](https://us-cert.cisa.gov/ncas/tips/ST05-012).)
+- **Weke firewall**. Firwall ina uwezo wa kuzuia aina fulani ya uvamizi kwa kuzuia misafara ya waharifu kabla haijaingia kwenye computa yako na pia kuzuia misafara isiyo hitajika kwenye komputa yako. Kuna baadhi ya operating system zina firewall. Kitu unachotakiwa ni kuruhusu na kufanya setting za firewall kama zilivyo elezwa kwenye maelekezo ya kifaa chako.
+- 
 - **Install a firewall.** Firewalls may be able to prevent some types of attack vectors by blocking malicious traffic before it can enter a computer system, and by restricting unnecessary outbound communications. Some device operating systems include a firewall. Enable and properly configure the firewall as specified in the device or system owner’s manual. (See [Understanding Firewalls for Home and Small Office Use](https://us-cert.cisa.gov/ncas/tips/ST04-004).)
 - **Be suspicious of unexpected emails.** Phishing emails are currently one of the most prevalent risks to the average user. The goal of a phishing email is to gain information about you, steal money from you, or install malware on your device. Be suspicious of all unexpected emails. (See [Avoiding Social Engineering and Phishing Attacks](https://us-cert.cisa.gov/ncas/tips/ST04-014).)
 
