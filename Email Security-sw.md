@@ -1,8 +1,8 @@
-# Email Security
+# Usalama wa Email
 
-Copyright © 2020 BrainyCyber. All Rights Reserved ®
+Copyright © 2020 BrainyChuo. All Rights Reserved ®
 
-# The EmailSecurity Guide
+# Mwongozo wa Usalama wa Email
 Written by Frezier Joe
 This ebook is the intellectual property of BrainyChuo. It must only be published in its original
 form. Using parts or republishing altered parts of this ebook without permission from
@@ -55,26 +55,21 @@ Copyright © 2020 MakeUseOf. All Rights Reserved ®
 
 # Chapter 1: Why Do You Need Secure Email?
 
-Welcome to the BrainyCyber Email Security Course. In this course you’ll learn how to lock down
-your inbox and secure one of the single most important digital assets in your life.
+Karibu kwenye BarinyChuo, Kwenye kitabu hiki nitazungumzia usalama wa email zako. utajifunza jinsi ya kuifunga email inbox yako na kuifanya iwe salama 
 
-# Why Do You Need Secure Email?
-Let’s not beat about the bush; why do you need secure email?
-Secure email is a cornerstone of a happy online existence. Every time you sign up for a new
-online service, you use your email address. When you forget a password, you use your email
-address to reset it. Your inbox contains addresses, phone numbers, personal information
-(about you and others!), and much more.
-And if an attacker makes their way into your email account, if they manage to break into and
-take over your account, they can almost instantaneously begin attacking your other accounts.
-Think; your Amazon, your Twitter, your Netflix, your online banking, and more.
-Email is deeply ingrained in society. The average office worker receives over 120 emails per
-day and sends out 40 in return. Email has become synonymous with an active, mobile
-workforce, too. DMR, a digital marketing fact curation site, states that 86 percent of
-professionals name email as their favorite communication tool, while 66 percent of us read
-email on our mobile devices.
-The ease of access, the sheer volume, and the now ubiquitous nature of email does mean that
-as a society, complacency sets in. The combination of human error, spam and phishing email,
-and other security vulnerabilities mean your email account is more vulnerable than you realize.
+# Umuhimu wa usalama wa email
+
+Email ni chombo muhimu cha mawasiliano, mawasiliano binafsi au ya ofisi, mambo ya kawaida na siri
+
+Email ndio inatumika kwenye ku reset password  ya huduma nying za mtandao kama umesahau au umepoteza, huduma hizo kuanzia za kibenki mpaka mitandao ya kijamii
+
+Kwa hiyo utaona kwamba kwenye email yako kuna anuani za watu mbalimbali, simu za watu, taarifa mbali mbali
+
+Ukweli ni kwamba muhalifu akifanikiwa kuingia kwenye email yako, hapo utakua umekaribisha balaa maana yake anakua na uwezo wa kuingia kwenye mitandao mingine pia. Maana anaweza kutumia hiyo email kubadilisha password zako nyingine na usiweze kuingia na yeye ndio akatumia akijifanya wewe. Hivyo anaweza kuleta madhara madogo na makubwa pia kama kufanya wizi au kukuabisha
+
+Kwa bahati mbaya sana waliotengeneza huduma ya email hawakuwaka huduma ya ulinzi kwenye email mbali na password. Ukijumuisha makosa ya kibinadamu, spam na email phishing na hatari nyingine utanona kwamba kuna hatari nyingi sana kwenye email kuliko vile unavyofikiria
+
+
 Furthermore, the constant barrage of security news—breaches, failings, vulnerabilities,
 insecurities, and more—leads to dissonance. Simply put, we stop caring when there is too
 much noise.

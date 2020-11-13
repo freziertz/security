@@ -1,22 +1,22 @@
 # SSL Certificate
 
-Malengo ya kujifunza SSL Certificate
+Malengo ya kujifunza *SSL Certificate*
 
-Baada ya kujifunza sehemu hii utakua na uwezo wa
+Baada ya kujifunza sehemu hii utakua na uwezo wa 
 
-Kuelewa nini maana ya SSL certificate
+- kuelewa nini maana ya SSL certificate
+- Utajua taarifa zilizomo kwenye SSL certificate
 
-Utajua taarifa zilizomo kwenye SSL certificate
+- Utakua na uwezo wa kueleza kwanini *SSL/ TLS ecryption* ni muhimu
 
-Utakua na uwezo wa kueleza kwanini SSL/TLS ecryption ni muhimu
-
-Utajifunza jinsi gani ya kupata SSL certificate ya bure
+- Utajifunza jinsi gani ya kupata *SSL certificate* ya bure
+- Utakua na uwezo wa kueleza *SSL certificate* inafanyaje kazi
 
 ## SSL Certificate ni nini?
 
 ![SSL Certificate Secure Browsing](https://www.cloudflare.com/resources/images/slt3lc6tev37/2mkpUOPzl2jEPEERn2e57B/3b180ecab3ff7e0a5da1706434722573/ssl-certificate-secure-browsing.png)
 
-SSL certificate ni kitu kile kinachofanya website kwenda kwenye level ya juu kutoka HTTP kwenda HTTPS ambayo ni salama zaidi. SSL certificate ni data faili ambalo linakaa kwenye server halisi ya tovuti. SSL Certificate inawezesha encryption of data, kawaida inakua na funguo ya umma ya tovuti na utambulisho wa tovuti na taarifa zake muhimu. Kifaa kinachojaribu kuwasiliana na server asilia italisoma hilo fail ili kupata fungua ya umma na kuthibitisha utambulisho wa server. Funguo binafsi inafichwa sehemu salama
+*SSL certificate* ni kitu kile kinachofanya tovuti *( website )* kwenda kwenye ngazi ya juu kutoka *HTTP* kwenda *HTTPS* ambayo ni salama zaidi. *SSL certificate* ni data faili ambalo linakaa kwenye server halisi ya tovuti. *SSL Certificate* inawezesha encryption of data, kawaida inakua na funguo ya umma ya tovuti na utambulisho wa tovuti na taarifa zake muhimu. Kifaa kinachojaribu kuwasiliana na server asilia italisoma hilo fail ili kupata fungua ya umma na kuthibitisha utambulisho wa server. Funguo binafsi inafichwa sehemu salama
 
 ## SSL ni nini?
 

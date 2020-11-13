@@ -4,6 +4,10 @@ Hiki kitabu kinakufundisha kuhusu usalama wako wakati unatumia mtandao kama vile
 
 Kitabu hiki kimejikita kwenye mamba ambayo unatakiwa ufahamu kuhusu hatari za usalama na usiri wa taarifa zako mitandaoni kama vile online scams, typosquatting, spoofed website ni vingine vingi ili uweze kujikinga wewe binafsi na kuyaweka salama maeneo yako unayofanyia kazi.
 
+Uharifu mtandaoni unajumuisha mambo yafuatayo
+
+
+
 **Kitabu Hiki ni Kwa Ajili ya Nani**
 
 - kitabu hiki ni kwa ajili ya mtu yeyote ambaye anahitaji kujua zaidi kuhusu usama wake mitandaoni, mbali na kujua anatakiwawa afanye nini pia  kuelewa kwa nini anatakiwa afanye hivyo
@@ -32,6 +36,8 @@ usalama kwenye network yako
 
 usalama  wa mazingira yako
 
+Usalama ukiwa unaamisha taarifa zako
+
 usalama wa 
 
 # SURA YA PILI
@@ -52,9 +58,17 @@ Tovuti salama ni ile ambayo anuani (URL) yake inaanza na https na pia utaona ala
 
 *Secure* maana yake nini?
 
+Secure maana yake taarifa zako zinakuwa encypted, encryption ni njia ambayo inalinda taarifa zako dhidi ya watu ambao awapaswi kusoma kwa kuzificha kwa kutumia funguo ya siri kwa kuzifanya zisiweze someka. Mpokeaji wa taarifa anatakiwa awe anajua hiyo funguo ndio aweze kusoma Hivyo basi funguo hiyo inaitwa *shared key* . Mtu yeyote ambaye hana hiyo funguo ataishia kuona madudu tu. 
+
+Kwa mfano unatuma taarifa za kadi yako ya benk yaani credit card au debit card kwa kujaza namba zako za kadi wakati wa kufanya manunuzi kwenye mtandao fulani.Hizo taarifa hazitoweza kusomwa na mtu yeyote zikiwa njiani isipokua wahusika.
+
+![Encryption process](E:\xampp\htdocs\security\assets\encryption.png)
+
 
 
 HTTPS ni nini na jinsi gani  inalinda taarifa (data) zako 
+
+HTTPS ni kifupi cha hypetext transport protocol secure, inafanya kazi kwa kutumia port 443 na pia ni mwendelezo wa HTTP. HHTPS inatumia Transport Layer security (TLS) ambayo ni encryption protocol ili kufanya iwe salama. Hii ina maana kwamba mawasiliano yote kati ya browser yako na web server ni salama  pale tu mawasiliano yanapokua yameunganishwa
 
 Kabla ya kufanya manunuzi kwenye mtandao untatikwa uhakikishe kwamba HTTPS na kufuli la kijani liko kwenye anuani ya tovuti
 
